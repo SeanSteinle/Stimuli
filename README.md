@@ -5,6 +5,6 @@ We can use this platform as a place to develop, share, and evaluate our current 
 
 CONTENTS:
 
-README.md - here
-Stimuli.xlsx - excel file of experimental data, courtesy of Lin
-Stimuli_Probing_Sean - experimental stuff. this is just brainstorming, will create a separate file with usable objects/stuff
+README.md - here\n
+Stimuli.xlsx - excel file of experimental data, courtesy of Lin\n
+Stimuli_Probing_Sean - experimental stuff. this is just brainstorming, will create a separate file with usable objects/stuff\n
