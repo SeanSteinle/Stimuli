@@ -6,7 +6,6 @@ I'll be routinely working with the platform, so if you feel like using Git/Githu
 absolutely submit pull requests and I'll confirm them.
 
 **Contents**:
-
 *Stimuli.xlsx* - excel file of experimental data, courtesy of Lin
 *Stanford_Pickling* - early attempts with the Stanford Tagger, now outdated
 *Stimuli_DF_and_Objects* - combing through and tagging Stimuli.xlsx data, can be used for future parsing models
